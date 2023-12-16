@@ -1,0 +1,32 @@
+*{
+    color:#000000;
+    margin-left:58px ;
+
+}
+#section1{
+    width: 1643px;
+    height: 648.57px;
+    border: solid #000000 2px;
+}
+#section2{
+    width: 1051px;
+    height: 894px
+}
+#section3{
+    width: 1623px;
+    height: 469px;
+}
+p{
+
+}
+.description{
+
+}S
+h1{
+    font: Inter;
+    font-weight:700
+    font-size:64px
+}
+
+
+
